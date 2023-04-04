@@ -10,9 +10,7 @@ layout: home
 Text
 ### Unterpunkt 1
 Text
-
-![PRISMA Anmeldung](/images/prisma01.png)
-
+![PRISMA Anmeldung](../images/prisma01.png)
 ### Unterpunkt 2
 Text
 ## Punkt 2
