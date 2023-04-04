@@ -10,6 +10,7 @@ layout: home
 Text
 #### Punkt 2
 Text
+<img src="/images/prisma01.png" alt="PRISMA Anmeldung" style="height: 100px; width:100px;"/>
 #### Punkt 3
 Text
 #### Punkt 4
