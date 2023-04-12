@@ -45,9 +45,9 @@ usw.
 
 versuche dir jetzt einen guten satz auszudenken und auch einen hinweis dazu zu notieren
 
-## passworteinstellungen im browser
+# passworteinstellungen im browser
 
-### macosx
+## macosx
 
 mit ⌘, oder unter firefox einstellungen öffnest du die einstellungen deines browsers  (⌘ ist die befehlstaste - früher apfeltaste)
 
@@ -61,17 +61,17 @@ vor allem ist aber der knopf gespeicherte zugangsdaten interessant
 
 du kannst auch unter dem hamburger dir anzeigen lassen, ob der browser passwörter gespeichert hat
 
-### windows
+## windows
 
 (laut meinem internet soll man mit der windowstaste und i die einstellungen eines programmes öffnen können. auf dem rechner der mir zur verfügung stand hat das nicht funktioniert)
 
 wie beim mac kanns tu dir auch unter dem firefox hamburger anzeigen lassen, ob dein firefox passwörter gespeichert hat
 
-### linux
+## linux
 
 ich gehe jetzt einfach davon aus, dass auch firefox für linux einen hamburger hat und du unter dem herausfinden kannst, ob dein firefox passwörter gespeichert hat
 
-### ios
+## ios
 
 hier würden wir uns eher darum kümmern, ob, wie und wo safari passwörter speichert oder gespeichert hat
 
@@ -79,13 +79,13 @@ in ios findest du die passwörter in den einstellungen unter passwörter.
 
 hier findest du die passwörter, die von den apps benutzt werden. wenn du sie anklickst, kannst du sie auch lesen. allerdings sind auch nicht alle passwörter aller apps hier zu finden ???
 
-### android
+## android
 
 hierzu habe ich folgenden link gefunden (leider ist mein android sehr alt und außerdem habe ich da nur 3 unterschiedliche nutzer drauf und die wenigen apps darauf loggen sich mit diesen googlenutzern ein)
 bitte schön [die erklärung][1]
 
 
-## passwörter im schlüsselbund
+# passwörter im schlüsselbund
 
 
 
