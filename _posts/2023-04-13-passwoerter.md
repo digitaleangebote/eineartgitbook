@@ -5,7 +5,7 @@ date: 2023-04-13
 category: Jekyll
 layout: post
 ---
-## gute passwörter erstellen
+#### gute passwörter erstellen
 eine methode gute passwörter, die man sich auch merken kann, zu erstellen, ist, sich einen etwas längeren satz auszudenken.
 zb.
 In der Digitale Angebote AG versuchen wir, möglichst viel zu lernen
@@ -45,9 +45,9 @@ usw.
 
 versuche dir jetzt einen guten satz auszudenken und auch einen hinweis dazu zu notieren
 
-## passworteinstellungen im browser
+### passworteinstellungen im browser
 
-### macosx
+## macosx
 
 mit ⌘, oder unter firefox einstellungen öffnest du die einstellungen deines browsers  (⌘ ist die befehlstaste - früher apfeltaste)
 
@@ -61,7 +61,7 @@ vor allem ist aber der knopf gespeicherte zugangsdaten interessant
 
 du kannst auch unter dem hamburger dir anzeigen lassen, ob der browser passwörter gespeichert hat
 
-### windows
+## windows
 
 (laut meinem internet soll man mit der windowstaste und i die einstellungen eines programmes öffnen können. auf dem rechner der mir zur verfügung stand hat das nicht funktioniert)
 
