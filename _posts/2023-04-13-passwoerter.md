@@ -79,7 +79,11 @@ in ios findest du die passwörter in den einstellungen unter passwörter.
 
 hier findest du die passwörter, die von den apps benutzt werden. wenn du sie anklickst, kannst du sie auch lesen. allerdings sind auch nicht alle passwörter aller apps hier zu finden ???
 
-### android - 
+### android
+
+hierzu habe ich folgenden link gefunden (leider ist mein android sehr alt und außerdem habe ich da nur 3 unterschiedliche nutzer drauf und die wenigen apps darauf loggen sich mit diesen googlenutzern ein)
+bitte schön [die erklärung][1]
+
 
 ## passwörter im schlüsselbund
 
@@ -99,3 +103,13 @@ registriere dich mit
 
 itzibitzi@icloud.com
 Ach,w=dmdPwisk?
+
+
+
+
+
+
+
+
+
+[1]: https://www.giga.de/artikel/android-gespeicherte-passwoerter-anzeigen-lassen/
